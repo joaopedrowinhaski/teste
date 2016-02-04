@@ -1,68 +1,3 @@
-Joao Pedro
-
-
-Pesquisar no Google Drive
-
-Drive
-.
-Caminho da pasta
-Meu Drive
-Arduino
-HTML
-NOVO 
-Pastas e visualizações
-Meu Drive
-Compartilhados comigo
-Google Fotos
-Recentes
-Com estrela
-Lixeira
-78 GB de 101 GB usados
-Fazer upgrade do armazenamento
-Nome
-Proprietário
-Última modificação
-Tamanho do arquivo
-
-automacao_residencial.css
-eu
-23:29eu
-3 KB
-
-automacao_residencial.js
-eu
-23:28eu
-1 KB
-Folha de estilos
-automacao_residencial.css
-Detalhes
-Atividade
-automacao_residencial.css
-Informações de compartilhamento
-Carregando informações de compartilhamento…
-Informações gerais
-Tipo
-Folha de estilos
-Tamanho
-3 KB (3.581 bytes)
-Armazenamento usado
-3 KB (3.581 bytes)
-Local
-HTML
-Proprietário
-eu
-Modificado
-em 23:29 por mim
-Aberto
-em 23:31 por mim
-Criado em
-23:29
-Descrição
-Carregando descrição…
-Permissões de download
-Os leitores podem fazer o download
-Todas as seleções foram removidas 
-
 /* 
     CSS Projeto Automacao Residencial
     FILIPEFLOP Componentes Eletronicos
@@ -225,8 +160,3 @@ div.rele2_desligado {
 	position:relative;
 	top:1px;
 }
-automacao_residencial.cssAbrir
-1 de 2 itens
-automacao_residencial.cssautomacao_residencial.js
-
-Exibindo automacao_residencial.css…
